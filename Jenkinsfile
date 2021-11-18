@@ -5,7 +5,7 @@ pipeline {
   }
 
    environment {
-     // You must set  following environment variables
+     // You must set the following environment variables
      // ORGANIZATION_NAME
      // YOUR_DOCKERHUB_USERNAME (it doesn't matter if you don't have one)
      
